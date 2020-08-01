@@ -1,0 +1,22 @@
+{
+  "name": "renovatetestproject",
+  "version": "1.0.0",
+  "description": "Test Project for Renovate Bot updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jparnone/renovateTestProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jparnone/renovateTestProject/issues"
+  },
+  "homepage": "https://github.com/jparnone/renovateTestProject#readme",
+  "devDependencies": {
+    "renovate": "^22.7.0"
+  }
+}
