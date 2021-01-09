@@ -18,5 +18,9 @@
   "homepage": "https://github.com/jparnone/renovateTestProject#readme",
   "devDependencies": {
     "renovate": "^22.7.0"
+  },
+  "dependencies": {
+    "react": "16.4.0",
+    "react-dom": "16.4.0"
   }
 }
