@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jparnone/renovateTestProject#readme",
   "devDependencies": {
-    "renovate": "^22.7.0"
+    "renovate": "^23.0.0"
   }
 }
