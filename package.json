@@ -24,6 +24,6 @@
     "react-router": "5.0.0",
     "react-color": "2.18.0",
     "react-dom": "16.13.0",
-    "react-popper": "2.2.2"
+    "react-popper": "2.2.4"
   }
 }
