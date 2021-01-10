@@ -22,7 +22,7 @@
   "dependencies": {
     "react": "16.13.0",
     "react-router": "5.0.0",
-    "react-color": "5.18.0",
+    "react-draggable": "4.4.3",
     "react-dom": "17.0.1",
     "react-popper": "2.2.2"
   }
