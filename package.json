@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jparnone/renovateTestProject#readme",
   "devDependencies": {
-    "renovate": "^22.7.0"
+    "renovate": "^34.50.3"
   },
   "dependencies": {
     "react": "16.13.0",
